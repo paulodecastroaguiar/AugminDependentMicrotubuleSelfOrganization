@@ -1,0 +1,2 @@
+# AugminDependentMicrotubuleSelfOrganization
+Augmin-dependent microtubule self-organization drives kinetochore fiber maturation in mammals
